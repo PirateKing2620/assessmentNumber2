@@ -1,0 +1,33 @@
+
+Adobe
+Lots of Machine learning
+AI learning
+They use MarTech
+They also use their own Adobe Stack:
+- Adobe Analytics
+- Adobe Target
+- Adobe Campaign
+- Adobe Audience
+They use AEM
+
+
+
+Lendio
+(Fun Fact: My dad is actully a co-founder of Lendio)
+Bootstrap
+AngularJS
+D3.js
+React
+PhP
+NGINX
+JqueryUI
+Amazon CloudFront
+
+
+
+Arctic Wolf
+Website Tech Stack by BuiltWith
+Patents and Trademarks by IPqwery
+Web Traffic by SEMrush
+Interest Signals by Bombora
+IT Spend by Aberdeen
